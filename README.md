@@ -1,5 +1,4 @@
-### API-key
-## How to use an API Key
+# How to use an API Key (Blog)
 
 
 Your API key is your ticket to extracting information from an API. It is not something that you should share with other people, since your account could be compromised and sensitive information would be leaked. Instead, you should host the key in a separate environment, not embedded in the code that you will upload.
